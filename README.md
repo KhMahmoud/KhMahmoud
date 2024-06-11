@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kharouf Mahmoud</h1>
 <h3 align="center">Aspiring Full-Stack Developer with a Passion for Node.js</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/j1Xyt3DHfJcmk/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khmahmoud" alt="khmahmoud" /></a> </p>
 🔭 I’m currently working on YelpCamp
