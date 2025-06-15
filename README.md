@@ -1,24 +1,35 @@
 <h1 align="center">Hi 👋, I'm Kharouf Mahmoud</h1>
 <h3 align="center">Aspiring Full-Stack Developer with a Passion for Node.js</h3>
+
 <p align="center">
-  <img src="**https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif**" alt="Coding GIF" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khmahmoud" alt="khmahmoud" /></a> </p>
-🔭 I’m currently working on YelpCamp
 
-🌱 I’m currently deepening my knowledge in Node.js and Full-Stack Development
+<p align="center">
+  📄 <a href="https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_Resume.pdf?raw=true">View My Resume</a> — for a full breakdown of my experience and skills.
+</p>
 
-💬 Ask me about HTML, JavaScript, Express, and Web Development
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=khmahmoud" alt="khmahmoud" />
+  </a>
+</p>
 
-📫 How to reach me: KharoufMahmoud@Gmail.com
-
-📄 Check out my resume for more details about my experience: My Resume
+🔭 I’m currently working on YelpCamp  
+🌱 I’m currently deepening my knowledge in Node.js and Full-Stack Development  
+💬 Ask me about HTML, JavaScript, Express, and Web Development  
+📫 How to reach me: KharoufMahmoud@Gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/mahmoud kharouf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud kharouf" height="30" width="40" /></a>
-<a href="https://discord.gg/mahmoud9038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmoud9038" height="30" width="40" /></a>
+  <a href="https://fb.com/mahmoud kharouf" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud kharouf" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/mahmoud9038" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahmoud9038" height="30" width="40" />
+  </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -52,5 +63,10 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khmahmoud&show_icons=true&locale=en&layout=compact" alt="khmahmoud" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khmahmoud&show_icons=true&locale=en" alt="khmahmoud" /></p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khmahmoud&show_icons=true&locale=en&layout=compact" alt="khmahmoud" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khmahmoud&show_icons=true&locale=en" alt="khmahmoud" />
+</p>
