@@ -5,15 +5,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </p>
 
-<p align="center">
-  📄 <a href="https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_Resume.pdf?raw=true">View My Resume</a> — for a full breakdown of my experience and skills.
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khmahmoud" alt="khmahmoud" />
-  </a>
-</p>
 
 🔭 I’m currently working on YelpCamp  
 🌱 I’m currently deepening my knowledge in Node.js
