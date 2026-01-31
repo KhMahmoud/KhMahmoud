@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kharouf Mahmoud</h1>
-<h3 align="center">Aspiring Full-Stack Developer with a Passion for Node.js</h3>
+<h3 align="center">Backend Developer (Node.js)</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
@@ -16,13 +16,11 @@
 </p>
 
 🔭 I’m currently working on YelpCamp  
-🌱 I’m currently deepening my knowledge in Node.js and Full-Stack Development  
-💬 Ask me about HTML, JavaScript, Express, and Web Development  
+🌱 I’m currently deepening my knowledge in Node.js
 📫 How to reach me: KharoufMahmoud@Gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/mahmoud kharouf" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud kharouf" height="30" width="40" />
   </a>
   <a href="https://discord.gg/mahmoud9038" target="_blank">
