@@ -38,7 +38,22 @@ gantt
     Midpoint Review                   :milestone, m2, 2026-05-11, 0d
     Pre-defense Review                :milestone, m3, 2026-08-12, 0d
 ```
+### Summary of the Roadmap
 
+- **Graduation Project**
+  - Scope + proposal: Feb–Mar
+  - Build core + features: Mar–Jun
+  - Testing + report + defense: Jun–Aug
+
+- **Flagship #1 – ShopStack API**
+  - MVP: Feb–Mar
+  - Hardening + tests: Mar–May
+  - Deploy + docs: May–Jun
+
+- **Flagship #2 – ShopAI Assistant**
+  - AI fluency (Educative.IO): Apr–Jun
+  - RAG + integration: Jul
+  - Demo + case study: Jul–Aug
 
 📄 Resume: https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_Resume.pdf?raw=true  
 🔗 LinkedIn: https://www.linkedin.com/in/mahmoud-kharouf-a9b952285/  
