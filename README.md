@@ -59,5 +59,5 @@ gantt
   - Demo + case study: Jul–Aug
 
 📄 Resume: https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_Resume.pdf?raw=true  
-🔗 LinkedIn: https://www.linkedin.com/in/mahmoud-kharouf-a9b952285/  
+🔗 LinkedIn: https://www.linkedin.com/in/mahmoudkharouf/
 📫 Email: KharoufMahmoud@gmail.com
