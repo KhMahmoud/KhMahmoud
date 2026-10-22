@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mahmoud Kharouf</h1>
-<h3 align="center">Junior Backend Developer (Node.js • Express • PostgreSQL)</h3>
+<h3 align="center">Backend Engineer · Python/Django/DRF · building Atlas, a multi-tenant ERP.</h3>
 
 - Building REST APIs with authentication and clean structure
-- Currently working on: YelpCamp
+- Currently working on: ATLAS ERP
 - Learning next: API testing (Jest/Supertest)
 
 ## Graduation Roadmap (Feb–Jun 2026)
