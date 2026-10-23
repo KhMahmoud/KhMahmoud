@@ -58,6 +58,7 @@ gantt
   - RAG + integration: Jul
   - Demo + case study: Jul–Aug
 
-📄 Resume: https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_Resume.pdf?raw=true  
-🔗 LinkedIn: https://www.linkedin.com/in/mahmoudkharouf/
-📫 Email: KharoufMahmoud@gmail.com
+📄 [Resume](https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_CV.pdf?raw=true)
+🌐 [Portfolio](https://khmahmoud.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudkharouf/)
+📫 [Email](mailto:KharoufMahmoud@gmail.com)
