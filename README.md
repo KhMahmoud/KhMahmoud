@@ -3,7 +3,7 @@
 
 - Building REST APIs with authentication and clean structure
 - Currently working on: ATLAS ERP
-- Learning next: API testing (Jest/Supertest)
+- Currently strengthening: Django/DRF API testing.
 
 ## Graduation Roadmap (Feb–Jun 2026)
 
@@ -41,23 +41,15 @@ gantt
     Pre-defense Review                    :milestone, m3, 2026-06-18, 0d
 ```
 
-### Summary of the Roadmap
+### What I'm building
 
-- **Graduation Project**
-  - Scope + proposal: Feb–Mar
-  - Build core + features: Mar–Jun
-  - Testing + report + defense: Jun–Aug
+**Atlas ERP** — a multi-tenant business management platform (Django REST Framework + React).
 
-- **Flagship #1 – ShopStack API**
-  - MVP: Feb–Mar
-  - Hardening + tests: Mar–May
-  - Deploy + docs: May–Jun
+- **Architecture:** service-layer design — thin views, validating serializers, business logic in a transactional service layer.
+- **Multi-tenancy:** strict tenant isolation via scoped querysets and organization middleware; role-based access control on every endpoint.
+- **Domain:** 5 core modules — inventory, billing, purchasing, CRM, dashboards — modeling real accounting flows (invoices, payments, stock movements).
 
-- **Flagship #2 – ShopAI Assistant**
-  - AI fluency (Educative.IO): Apr–Jun
-  - RAG + integration: Jul
-  - Demo + case study: Jul–Aug
-
+**Learning next:** PostgreSQL · API testing with pytest / DRF test client.
 📄 [Resume](https://github.com/KhMahmoud/KhMahmoud/blob/main/Mahmoud_Kharouf_CV.pdf?raw=true)
 🌐 [Portfolio](https://khmahmoud.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoudkharouf/)
